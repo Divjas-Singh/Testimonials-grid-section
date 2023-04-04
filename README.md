@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Divjas-Singh/Testimonials-grid-section](https://github.com/Divjas-Singh/Testimonials-grid-section)
-- Live Site URL: []()
+- Live Site URL: [https://divjas-singh.github.io/Testimonials-grid-section/](https://divjas-singh.github.io/Testimonials-grid-section/)
 
 ### Built with
 
